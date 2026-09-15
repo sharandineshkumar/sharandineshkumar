@@ -8,7 +8,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Six+months+of+C%23%2C+a+lifetime+of+curiosity;Where+ASP.NET+meets+experimental+AI;Python+and+Java+on+the+side%2C+RAG+on+my+mind)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+code+%F0%9F%92%BB;Curious+about+how+AI+thinks+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </p>
 
