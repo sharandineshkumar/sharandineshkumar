@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sharan</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Software%20Developer%20%26%20AI%20Enthusiast&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6d28d9,100:0f172a&height=200&section=header&text=Software%20Developer%20%26%20AI%20Enthusiastic%20Learner&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20curiosity%20into%20code&descAlignY=58&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+hands-on+projects+around+RAG%2C+LLMs+%26+backend+dev;Exploring+LLM+apps%2C+AI+agents+%26+practical+AI+workflows;Ask+me+about+AI%2C+backend+dev%2C+C%23%2F.NET%2C+Python+%26+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+code+%F0%9F%92%BB;Curious+about+how+AI+thinks+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
