@@ -6,8 +6,11 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=.NET+by+trade%2C+RAG+by+obsession;From+C%23+fundamentals+to+building+with+LLMs;Python%2C+Java%2C+and+a+growing+AI+toolkit)](https://git.io/typing-svg)
----
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Six+months+of+C%23%2C+a+lifetime+of+curiosity;Where+ASP.NET+meets+experimental+AI;Python+and+Java+on+the+side%2C+RAG+on+my+mind)](https://git.io/typing-svg)
+
+</p>
 
 ### 🚀 About Me
 
@@ -37,11 +40,12 @@
 
 **Platforms & Cloud**
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 **Frameworks**
 
