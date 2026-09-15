@@ -6,11 +6,11 @@
 
 
 
-<p align="center">
+<center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+code+%F0%9F%92%BB;Curious+about+how+AI+thinks+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+hands-on+projects+around+RAG%2C+LLMs+%26+backend+dev;Exploring+LLM+apps%2C+AI+agents+%26+practical+AI+workflows;Ask+me+about+AI%2C+backend+dev%2C+C%23%2F.NET%2C+Python+%26+Java)](https://git.io/typing-svg)
 
-</p>
+</center>
 
 ### 🚀 About Me
 
