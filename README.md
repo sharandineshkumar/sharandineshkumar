@@ -5,10 +5,10 @@
 <h3 align="center">Software Developer & AI Enthusiastic Learner</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="380">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+code+%F0%9F%92%BB;Curious+about+how+AI+thinks+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Powered+by+curiosity%2C+fueled+by+C%23;Teaching+machines+to+think%2C+one+RAG+pipeline+at+a+time;Code+by+day%2C+LLM+experiments+by+night)](https://git.io/typing-svg)
 
 ---
 
