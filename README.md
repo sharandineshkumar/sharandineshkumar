@@ -6,8 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=C%23+developer%2C+exploring+RAG+%26+LLMs;Built+with+.NET%2C+Python%2C+and+curiosity;Learning+AI+one+experiment+at+a+time)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=.NET+by+trade%2C+RAG+by+obsession;From+C%23+fundamentals+to+building+with+LLMs;Python%2C+Java%2C+and+a+growing+AI+toolkit)](https://git.io/typing-svg)
 ---
 
 ### 🚀 About Me
