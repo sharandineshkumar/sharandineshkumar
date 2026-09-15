@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋, I'm Saran</h1>
+<h1 align="center">Hi 👋, I'm Sharan</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+C%23+.NET;Exploring+RAG+%26+LLM+Applications;Curious+Learner+in+AI)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e3a8a,100:0f172a&height=160&section=header&text=Sharan%20Dinesh%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=180&section=header&text=&fontSize=0" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+hands-on+projects+around+RAG%2C+LLMs+%26+backend+dev;Exploring+LLM+apps%2C+AI+agents+%26+practical+AI+workflows;Ask+me+about+AI%2C+backend+dev%2C+C%23%2F.NET%2C+Python+%26+Java)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharandineshkumar&label=Profile%20Views&color=58A6FF&style=flat" />
+</p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on building applications with **.NET (C#)** and **Python**, while diving into **Retrieval-Augmented Generation (RAG)** pipelines for LLM-powered apps.
-- 🌱 I'm currently learning the practical side of large language models — RAG architectures, prompt design, and moving them from experiments into working systems.
-- 💬 Ask me about **C# / .NET**, **Python**, **Java**, or how to plug LLMs and RAG into real-world applications.
+- 🔭 I'm currently working on building hands-on projects around **RAG, LLMs, and backend development** to understand how modern AI systems work in practice.
+- 🌱 I'm currently learning to explore **LLM applications, AI agents, and practical AI workflows** while continuously expanding my development skills.
+- 💬 Ask me about **AI, backend development, and building practical applications with C#/.NET, Python, and Java**.
 - ⚡ Fun fact: I enjoy picking apart how apps work internally, then rebuilding the idea myself with new tools.
 
 ---
@@ -24,28 +28,51 @@
 
 ### 💻 Tech Stack
 
-**Languages & Frameworks**
+**Languages**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Data & Cloud**
+**Platforms & Cloud**
 
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Frameworks**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **ML / AI**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Other Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ---
 
@@ -58,4 +85,12 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharandineshkumar&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sharandineshkumar/sharandineshkumar/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
