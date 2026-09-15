@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sharan</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/>, I'm Sharan
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6d28d9,100:0f172a&height=200&section=header&text=Software%20Developer%20%26%20AI%20Enthusiastic%20Learner&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20curiosity%20into%20code&descAlignY=58&descSize=16" width="100%"/>
+<h3 align="center">Software Developer & AI Enthusiastic Learner</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+code+%F0%9F%92%BB;Curious+about+how+AI+thinks+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -8,10 +14,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on building hands-on projects around **RAG, LLMs, and backend development** to understand how modern AI systems work in practice.
-- 🌱 I'm currently learning to explore **LLM applications, AI agents, and practical AI workflows** while continuously expanding my development skills.
-- 💬 Ask me about **AI, backend development, and building practical applications with C#/.NET, Python, and Java**.
-- ⚡ Fun fact: I enjoy picking apart how apps work internally, then rebuilding the idea myself with new tools.
+- 🔭 **I'm currently working on building hands-on projects around RAG, LLMs, and backend development to understand how modern AI systems work in practice.**
+- 🌱 **I'm currently learning to explore LLM applications, AI agents, and practical AI workflows while continuously expanding my development skills.**
+- 💬 **Ask me about AI, backend development, and building practical applications with C#/.NET, Python, and Java.**
+- ⚡ **Fun fact: I enjoy picking apart how apps work internally, then rebuilding the idea myself with new tools.**
 
 ---
 
