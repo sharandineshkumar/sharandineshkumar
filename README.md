@@ -1,8 +1,8 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/>, I'm Sharan
+  Hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/>, I'm Saran
 </h1>
 
-<h3 align="center">Software Developer & AI Enthusiastic Learner</h3>
+<h3 align="center">Software Developer | Backend Engineering & AI Exploration</h3>
 
 
 
@@ -21,10 +21,6 @@
 
 ---
 
-### 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ssaran2003)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heysaran123@gmail,com)
 
 ---
 
@@ -76,6 +72,13 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+---
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ssaran2003)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heysaran123@gmail,com)
 
 ---
 
